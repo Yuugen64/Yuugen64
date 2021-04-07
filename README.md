@@ -1,4 +1,4 @@
-### Hi there 👋
+### Life in 64 bit.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuugen64)](https://github.com/anuraghazra/github-readme-stats)
 
