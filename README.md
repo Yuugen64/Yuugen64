@@ -1,4 +1,9 @@
-### Life in 64 bit.
+### Life in 64 bit. --- Computer Scientist in training! ---
+
+- I am busy self-teaching C++ because I want to learn Computer Science, not just development TOOLS.
+- I enjoy Web Development as well, and am also working on bettering my understanding of UI/UX design for both my Web and Native software solutions.
+
+- When not coding, I work on Blender for its multiple uses (Game Assets, 3D printing, Architecture, etc), as well as 2D digital art for creating assets for my personal projects and websites.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuugen64)](https://github.com/anuraghazra/github-readme-stats)
 
